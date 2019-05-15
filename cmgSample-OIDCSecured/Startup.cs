@@ -43,7 +43,7 @@ namespace cmgSample_OIDCSecured
 
                // Hook into the custom JWT event handler class which performs custom claims mapping and error handling.
                options.Events = JwtEventHandler.CreateJwtEvents();
-               options.Audience = "CUNA:JWT";               
+               options.Audience = "Company:JWT";               
            }
 
            );
