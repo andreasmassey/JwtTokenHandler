@@ -1,0 +1,14 @@
+C:\Users\sss8969\source\repos\cmgSample-OIDCSecured\cmgSample-OIDCSecured\bin\Debug\netcoreapp2.2\cmgSample-OIDCSecured.deps.json
+C:\Users\sss8969\source\repos\cmgSample-OIDCSecured\cmgSample-OIDCSecured\bin\Debug\netcoreapp2.2\cmgSample-OIDCSecured.runtimeconfig.json
+C:\Users\sss8969\source\repos\cmgSample-OIDCSecured\cmgSample-OIDCSecured\bin\Debug\netcoreapp2.2\cmgSample-OIDCSecured.runtimeconfig.dev.json
+C:\Users\sss8969\source\repos\cmgSample-OIDCSecured\cmgSample-OIDCSecured\bin\Debug\netcoreapp2.2\cmgSample-OIDCSecured.dll
+C:\Users\sss8969\source\repos\cmgSample-OIDCSecured\cmgSample-OIDCSecured\obj\Debug\netcoreapp2.2\cmgSample-OIDCSecured.csprojAssemblyReference.cache
+C:\Users\sss8969\source\repos\cmgSample-OIDCSecured\cmgSample-OIDCSecured\obj\Debug\netcoreapp2.2\cmgSample-OIDCSecured.csproj.CoreCompileInputs.cache
+C:\Users\sss8969\source\repos\cmgSample-OIDCSecured\cmgSample-OIDCSecured\obj\Debug\netcoreapp2.2\cmgSample-OIDCSecured.RazorAssemblyInfo.cache
+C:\Users\sss8969\source\repos\cmgSample-OIDCSecured\cmgSample-OIDCSecured\obj\Debug\netcoreapp2.2\cmgSample-OIDCSecured.RazorAssemblyInfo.cs
+C:\Users\sss8969\source\repos\cmgSample-OIDCSecured\cmgSample-OIDCSecured\obj\Debug\netcoreapp2.2\cmgSample-OIDCSecured.AssemblyInfoInputs.cache
+C:\Users\sss8969\source\repos\cmgSample-OIDCSecured\cmgSample-OIDCSecured\obj\Debug\netcoreapp2.2\cmgSample-OIDCSecured.AssemblyInfo.cs
+C:\Users\sss8969\source\repos\cmgSample-OIDCSecured\cmgSample-OIDCSecured\obj\Debug\netcoreapp2.2\cmgSample-OIDCSecured.RazorTargetAssemblyInfo.cache
+C:\Users\sss8969\source\repos\cmgSample-OIDCSecured\cmgSample-OIDCSecured\bin\Debug\netcoreapp2.2\cmgSample-OIDCSecured.pdb
+C:\Users\sss8969\source\repos\cmgSample-OIDCSecured\cmgSample-OIDCSecured\obj\Debug\netcoreapp2.2\cmgSample-OIDCSecured.dll
+C:\Users\sss8969\source\repos\cmgSample-OIDCSecured\cmgSample-OIDCSecured\obj\Debug\netcoreapp2.2\cmgSample-OIDCSecured.pdb
